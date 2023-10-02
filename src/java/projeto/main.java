@@ -3,7 +3,12 @@ package src.java.projeto;
 public class main {
 
 
-    //TODO IMPLEMENTE O SEU HELLOWORD AQUI
+    public static void main(String[] args) {
+
+
+        System.out.println("Hello World!");
+
+    }
 
 
 }
